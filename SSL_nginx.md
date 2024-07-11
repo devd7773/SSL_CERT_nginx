@@ -2,6 +2,8 @@
 --
 -- Let's Encrypt is a non-profit certificate authority run by Internet Security Research Group that provides X.509 certificates for Transport Layer Security encryption at no charge.
 --
+-- Certbot is a free, open source software tool for automatically using Let’s Encrypt certificates on manually-administrated websites to enable HTTPS.
+--
 --> Install Certbot and it’s Nginx plugin
 --
 sudo apt install certbot python3-certbot-nginx
